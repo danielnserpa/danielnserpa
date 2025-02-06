@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Leo!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Example Usage - README Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Daniel!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Example Usage - README Typing SVG">
 </p>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
