@@ -1,10 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Daniel!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Example Usage - README Typing SVG">
-</p>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-Full-stack Developer
-</h2>
+
+
 
 <p align="center">
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=50% src="https://t4.ftcdn.net/jpg/05/59/60/45/360_F_559604561_8311XjzlPhW4b7n9TwQ8XsWxIlfPv6Sq.jpg" />
